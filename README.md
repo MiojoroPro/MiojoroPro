@@ -119,18 +119,18 @@ const developer = {
     <td valign="top" width="50%">
       
 ### 🔨 Working On
-- 🌐 Building a [Project Name/Description]
-- 📱 Developing [Another Project]
-- 🤝 Contributing to open source
+- 🌐 Building a **Full Stack E-commerce Platform**
+- 📱 Developing a **Task Management App** with React
+- 🤝 Contributing to open source projects
 
     </td>
     <td valign="top" width="50%">
       
 ### 📚 Learning
 - 🧠 Diving deeper into **System Design**
-- ☁️ Exploring **Cloud Architecture** (AWS/GCP)
-- 🦀 Experimenting with **[New Tech]**
-- 📖 Reading: *[Book Title]*
+- ☁️ Exploring **Cloud Architecture** (AWS/Azure)
+- 🐳 Mastering **Docker & Kubernetes**
+- 📖 Reading: *Clean Architecture* by Robert C. Martin
 
     </td>
   </tr>
