@@ -7,7 +7,6 @@ Antananarivo, Madagascar
 
 Je conçois des API REST robustes et j'aime comprendre comment un système tient debout, de la base de données jusqu'à l'interface. Actuellement étudiant en L3 Informatique, je m'intéresse particulièrement à l'architecture logicielle et à l'IA appliquée, notamment aux systèmes RAG.
 
-- 🎓 L3 Informatique à IT University, Antananarivo
 - 🔧 Backend : Spring Boot, Laravel, API REST
 - 🤖 Curieux d'IA appliquée : chatbots RAG
 - 🐳 Conteneurisation avec Docker
