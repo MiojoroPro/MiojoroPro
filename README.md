@@ -57,52 +57,6 @@ Je conçois des API REST robustes et j'aime comprendre comment un système tient
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-## 📌 Projets
-
-### Signalisation routière (2025)
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-Application mobile de signalement d'incidents routiers avec géolocalisation en temps réel.
-Backend Spring Boot couplé à un front Vue.js/Ionic, synchronisation des données via Firebase.
-
-🔗 [lien-repo]
-
-### Intégration API GLPI (2026)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-
-Interface React reliée à l'API REST de GLPI pour la gestion des tickets et de l'inventaire.
-Échanges de données en JSON avec authentification par session token.
-
-🔗 [lien-repo]
-
-### Intégration API PrestaShop (2026)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white)
-
-Connecteur React consommant l'API PrestaShop pour la synchronisation des produits.
-Parsing et mapping de données XML entre les deux systèmes.
-
-🔗 [lien-repo]
-
-### Système de Gestion des Ressources Humaines
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-Projet collaboratif en équipe de 5 : application web RH couvrant personnel, congés, absences,
-heures supplémentaires, pointage et paie, avec automatisation du calcul de la paie.
-
-🔗 [lien-repo]
 
 ## 🎓 Formation
 
